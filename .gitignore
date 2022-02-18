@@ -1,0 +1,10 @@
+/node_modules/
+/lib/
+/test/
+/dist/
+/out-tsc/
+/docs/
+/docs-src/
+/.vscode/ 
+
+
