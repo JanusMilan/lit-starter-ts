@@ -1,6 +1,6 @@
 # Ausgang
 1. Starter hat keine Bundling und keine Minification
-2. Input ist 
+2. Input ist JS Datei
 
 # Rollup
 Lit recommend Rollup because it's designed to work with the standard ES module format
