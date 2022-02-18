@@ -1,1 +1,0 @@
-# lit-starter-ts
